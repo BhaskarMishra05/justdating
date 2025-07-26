@@ -18,7 +18,8 @@ list_of_files=[
     f"src/{projet_name}/pipelines/prediction_pipeline.py",
     f"src/{projet_name}/exception.py",
     f"src/{projet_name}/logger.py",
-    f"src/{projet_name}/utils.py"
+    f"src/{projet_name}/utils.py",
+    f"src/{projet_name}/app.py"
 ]
 
 for filepath in list_of_files:
