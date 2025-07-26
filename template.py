@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-projet_name='bitch'
+projet_name='mlproject'
 
 list_of_files=[
     ".github/workflows",
